@@ -1,5 +1,5 @@
 /**
- * Scrape by Mistratop
+ * Scrape by Mistra
  * AI Caption Generator
  * This script generates multiple variations of captions in English with different tones.
  * It uses an external API to fetch captions based on a given text prompt.
